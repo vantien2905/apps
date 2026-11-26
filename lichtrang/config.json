@@ -1,0 +1,12 @@
+{
+  "minVersion": "1.0",
+  "soft": true,
+  "message": {
+    "vi": "Bản mới có thêm tính năng và sửa lỗi. Cập nhật để có trải nghiệm tốt nhất.",
+    "en": "The new version brings new features and fixes. Update for the best experience."
+  },
+  "forceMessage": {
+    "vi": "Phiên bản bạn đang dùng đã cũ và không còn được hỗ trợ. Vui lòng cập nhật để tiếp tục sử dụng.",
+    "en": "This version is no longer supported. Please update to keep using the app."
+  }
+}
